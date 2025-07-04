@@ -10,6 +10,8 @@ This curation covers a wide range of robotic manipulation tasks.
 ---
 
 # Good to Start 🤓
+- A Mathematical Introduction to Robotic Manipulation_Richard Murray
+- [Robotic Manipulation Perception, Planning, and Control_Russ Tedrake](https://manipulation.csail.mit.edu)
 - [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
 - [Human-like dexterous manipulation for anthropomorphic five-fingered hands: A review](https://doi.org/10.1016/j.birob.2025.100212)
 - [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)
@@ -225,6 +227,7 @@ This curation covers a wide range of robotic manipulation tasks.
 <details>
 <summary><b>Repositories</b></summary>
 
+- [![](https://img.shields.io/badge/YanjieZe-Paper--List-black?style=flat-square&logo=github)](https://github.com/YanjieZe/Paper-List) <img src="https://img.shields.io/github/stars/YanjieZe/Paper-List?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--retargeting-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-retargeting) <img src="https://img.shields.io/github/stars/dexsuite/dex-retargeting?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/dexsuite-dex--urdf-black?style=flat-square&logo=github)](https://github.com/dexsuite/dex-urdf) <img src="https://img.shields.io/github/stars/dexsuite/dex-urdf?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/facebookresearch-neuralfeels-black?style=flat-square&logo=github)](https://github.com/facebookresearch/neuralfeels) <img src="https://img.shields.io/github/stars/facebookresearch/neuralfeels?style=flat-square&color=yellow">
