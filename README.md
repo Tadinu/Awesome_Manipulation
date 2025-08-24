@@ -848,7 +848,7 @@ This curation covers a wide range of robotic manipulation tasks.
 - [![](https://img.shields.io/badge/acados-acados-black?style=flat-square&logo=github)](https://github.com/acados/acados) <img src="https://img.shields.io/github/stars/acados/acados?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/google-trajax-black?style=flat-square&logo=github)](https://github.com/google/trajax) <img src="https://img.shields.io/github/stars/google/trajax?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/ICube--Robotics-acados_solver_ros2-black?style=flat-square&logo=github)](https://github.com/ICube-Robotics/acados_solver_ros2) <img src="https://img.shields.io/github/stars/ICube-Robotics/acados_solver_ros2?style=flat-square&color=yellow">
-- [![](https://img.shields.io/badge/OCS2-lightblue?style=flat-square)](https://leggedrobotics.github.io/ocs2) [![](https://img.shields.io/badge/leggedrobotics-ocs2-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/ocs2) <img src="https://img.shields.io/github/stars/leggedrobotics/ocs2?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/leggedrobotics-ocs2-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/ocs2) <img src="https://img.shields.io/github/stars/leggedrobotics/ocs2?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/Simple--Robotics-aligator-black?style=flat-square&logo=github)](https://github.com/Simple-Robotics/aligator) <img src="https://img.shields.io/github/stars/Simple-Robotics/aligator?style=flat-square&color=yellow">
 </details>
 
