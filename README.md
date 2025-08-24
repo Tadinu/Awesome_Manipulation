@@ -869,6 +869,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <details><summary><b>&nbsp;&nbsp;- Learning-based MPC</b></summary>
 
+- [![](https://img.shields.io/badge/LMPC-lightblue?style=flat-square)](https://robot-teaching.github.io) [![](https://img.shields.io/badge/Demo-gray?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1YcRN_kklw3cVVJNvgK_IEV6nDce9EJWK)
 - [![](https://img.shields.io/badge/pddm-lightblue?style=flat-square)](https://sites.google.com/view/pddm) [![](https://img.shields.io/badge/google--research-pddm-black?style=flat-square&logo=github)](https://github.com/google-research/pddm) <img src="https://img.shields.io/github/stars/google-research/pddm?style=flat-square&color=yellow">
 - ![](https://img.shields.io/badge/VLMPC-lightblue?style=flat-square) [![](https://img.shields.io/badge/ppjmchen-vlmpc-black?style=flat-square&logo=github)](https://github.com/ppjmchen/vlmpc) <img src="https://img.shields.io/github/stars/ppjmchen/vlmpc?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/VQ--ACE-lightblue?style=flat-square)](https://srl-ethz.github.io/page-vq-ace) [![](https://img.shields.io/badge/srl--ethz-vq_ace-black?style=flat-square&logo=github)](https://github.com/srl-ethz/vq_ace) <img src="https://img.shields.io/github/stars/srl-ethz/vq_ace?style=flat-square&color=yellow">
