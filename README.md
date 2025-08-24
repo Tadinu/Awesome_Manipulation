@@ -924,6 +924,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 <b>Mobile Manipulation</b>
 - [ICRA 2024 Workshop: 2nd on Mobile Manipulation and Embodied Intelligence](https://www.youtube.com/watch?v=bEVx_E3iUyk) - [OpenReview](https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/MoMa)
+- [RSS 2025 Workshop: Whole-body Control and Bimanual Manipulation - Applications in Humanoids and Beyond](https://wcbm-workshop.github.io) - [Videos](https://youtube.com/playlist?list=PLU7vZNuwnM4DNcos0FCcoa9nHYN4pb_lV&si=lG2NVw-N4y99jRey) - [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/WCBM)
 
 <b>Learning-based & Data-driven Manipulation</b>
 - [CoRL 2022 Workshops](https://corl2022.org/workshopvideos) - [Openreview](https://openreview.net/group?id=robot-learning.org/CoRL/2022/Workshop)
