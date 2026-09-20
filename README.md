@@ -15,6 +15,7 @@ This curation covers a wide range of robotic manipulation tasks.
 
 - [A Math Cookbook for Robot Manipulation, Prof. Sylvain Calinon](https://calinon.ch/paper1004.htm) - [Website](https://rcfs.ch)
 - [A Mathematical Introduction to Robotic Manipulation, Richard Murray](https://dl.acm.org/doi/10.5555/561828)
+- [Intro to Robotics, Prof. Dylan Losey](https://youtube.com/playlist?list=PLMJv1WlrtFwBlDTfKtZS61VmttoL6KO-J)
 - [Introduction to Robotics, Prof. Oussama Khatib, Stanford](https://see.stanford.edu/course/cs223a)
 - [Introduction to Robotics: Mechanics and Control, John J. Craig](https://elibrary.pearson.de/book/99.150005/9781292164953)
 - [Modern Robotics, Prof. Kevin M. Lynch & Prof. Frank C. Park](https://modernrobotics.northwestern.edu/nu-gm-book-resource) - [Textbook](https://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
